@@ -1,0 +1,96 @@
+✅ Replit AI Prompt (Just Paste This)
+Create a personal portfolio website for me (Rudra Vaishnav) with the following features:
+
+Use multiple tabs (i.e., a navigation bar at the top) to switch between the following pages:
+
+Home
+
+About Me
+
+Projects
+
+Skills
+
+Resume
+
+Contact
+
+On each tab/page, show the following:
+
+🏠 Home:
+Big title: "Hi, I’m Rudra Vaishnav 👋"
+
+Subtitle: "Computer Engineering @ Purdue | AI Builder | STEM Educator"
+
+Buttons that link to:
+
+GitHub: https://github.com/Rudravaish
+
+LinkedIn: https://www.linkedin.com/in/rudra-vaishnav/
+
+My Resume PDF (linked from /assets/rudra_resume.pdf)
+
+👨‍💻 About Me:
+Short bio:
+
+I’m a Computer Engineering student at Purdue with a passion for tech-driven impact. I build tools like MediMatch AI to solve real-world problems and mentor younger students in coding.
+
+Add a photo (use assets/profile.jpg placeholder)
+
+🧠 Projects:
+MediMatch AI
+AI-powered healthcare assistant built with Streamlit and a custom LLM (MedLLaMA 2).
+GitHub: https://github.com/Rudravaish/MediMatch-AI
+Show a screenshot from /assets/medimatch_screenshot.png
+
+Helping Youth Code
+A nonprofit initiative where I led 20+ tutors teaching Python to kids.
+Timeline: Sep 2022 – Jun 2024
+
+Include each project in a styled card layout.
+
+🛠️ Skills:
+Display tech & soft skills in badges or grids:
+
+Python, HTML/CSS/JS, Streamlit, GitHub, Replit
+
+Public Speaking, Mentoring, Curriculum Dev, Teamwork
+
+📄 Resume:
+Embed or link to /assets/rudra_resume.pdf
+
+Option to View or Download
+
+📬 Contact:
+Email: rvaishna@purdue.edu
+
+LinkedIn: https://linkedin.com/in/rudra-vaishnav
+
+GitHub: https://github.com/Rudravaish
+
+Design instructions:
+
+Use a clean, modern layout with a navbar across the top
+
+Use light blue and white theme
+
+Mobile responsive
+
+Use smooth scroll or animated transitions if possible
+
+🎁 Bonus: What to Upload to Replit Before Running
+assets/rudra_resume.pdf ← your resume file
+
+assets/profile.jpg ← your headshot or icon
+
+assets/medimatch_screenshot.png ← screenshot of your project
+
+Let me know if you'd like me to generate the code directly or a live working demo for you in HTML/JS now!
+
+
+
+
+
+
+
+
