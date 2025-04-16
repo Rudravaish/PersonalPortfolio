@@ -29,7 +29,7 @@ const Home = () => {
             <span>LinkedIn</span>
           </a>
           <a 
-            href="/assets/rudra_resume.pdf" 
+            href="https://drive.google.com/file/d/14dtndnEIsyHqDOAu0ZXVykgi1N8RuTy5/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-primary hover:bg-accent text-white px-6 py-3 rounded-lg transition duration-300"

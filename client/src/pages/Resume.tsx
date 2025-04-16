@@ -3,7 +3,10 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 const Resume = () => {
-  const [resumeUrl, setResumeUrl] = useState('/assets/rudra_resume.pdf');
+  // Google Drive link for the resume
+  const resumeUrl = "https://drive.google.com/file/d/14dtndnEIsyHqDOAu0ZXVykgi1N8RuTy5/view?usp=sharing";
+  // For Google Drive embed
+  const embedUrl = "https://drive.google.com/file/d/14dtndnEIsyHqDOAu0ZXVykgi1N8RuTy5/preview";
 
   return (
     <section id="resume" className="min-h-screen bg-neutral">
@@ -25,7 +28,8 @@ const Resume = () => {
                 </a>
                 <a 
                   href={resumeUrl} 
-                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center px-4 py-2 bg-gray-100 text-gray-800 rounded hover:bg-gray-200 transition"
                 >
                   <i className="ri-download-line mr-2"></i> Download
@@ -35,10 +39,11 @@ const Resume = () => {
             
             <div className="w-full h-[600px] border border-gray-200 rounded-lg bg-gray-50">
               <iframe 
-                src={resumeUrl} 
+                src={embedUrl} 
                 className="w-full h-full" 
                 title="Resume PDF"
                 style={{ border: 'none' }}
+                allow="autoplay"
               />
             </div>
           </div>
