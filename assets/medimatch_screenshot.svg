@@ -1,0 +1,5 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#e0f2fe"/>
+  <text x="400" y="250" font-family="Arial" font-size="30" text-anchor="middle" fill="#0284c7">MediMatch AI</text>
+  <text x="400" y="300" font-family="Arial" font-size="20" text-anchor="middle" fill="#075985">AI-powered healthcare assistant</text>
+</svg>
